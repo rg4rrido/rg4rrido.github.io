@@ -1,5 +1,6 @@
 ---
 layout: categories
-icon: fas fa-stream
+icon: fas fa-terminal
 order: 1
+title: Posts
 ---
