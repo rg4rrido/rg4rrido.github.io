@@ -39,7 +39,7 @@ nmap -p- --open -sS --min-rate 5000 -vvv -n -Pn 10.10.10.2 -oN allPorts
 ```
 
 ```bash
-grep '^[0-9]' allPorts| cut -d '/' -f1 | xargs | sort | tr ' ' ','
+grep '^[0-9]' allPorts | cut -d '/' -f1 | xargs | sort | tr ' ' ','
 ```
 
 ```bash
