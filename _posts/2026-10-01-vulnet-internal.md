@@ -2,13 +2,13 @@
 title: "VulNet:Internal TryHackMe"
 date: 2026-10-01 15:28:04 +0200
 categories: [CTF, TryHackMe]
-tags: [smb, redis, rsync, portforwarding, eJPTv2]
+tags: [easy, smb, redis, rsync, portforwarding, eJPTv2]
 ---
 - - -
 
 ## Introducción
 
-![Logo](/assets/img/posts/2026-10-01-vulnet-internal/00-VulnetInternalLogo.png)
+![Logo](/assets/img/posts/2026-10-01-vulnet-internal/00-VulnetInternalLogo.png){: width="400"}
 
 En este writeup vamos a resolver [VulnNet:Internal](https://tryhackme.com/room/vulnnetinternal), una máquina de TryHackMe centrada principalmente en la enumeración de servicios y abuso de servicios internos para escalar privilegios.
 
