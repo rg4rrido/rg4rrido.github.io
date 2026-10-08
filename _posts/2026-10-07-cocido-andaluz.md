@@ -1,5 +1,5 @@
 ---
-title: "Cocido Andaluz"
+title: "Cocido Andaluz TryHackMe"
 date: 2026-10-07 18:36:22 +0200
 categories: [CTF, TheHackersLabs]
 tags: [ejptv2, easy, fileUpload, bruteForce, RCE]
