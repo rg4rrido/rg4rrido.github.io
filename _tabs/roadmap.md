@@ -55,7 +55,7 @@ pero lo apunto aquí porque forma parte del plan real.
 
   <div style="border-left:3px solid #95a5a6;padding:0.8rem 1.1rem;background:var(--card-bg);border-radius:8px;">
     <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:0.5rem;">
-      <strong style="font-size:1.05rem;">🛡️ OSCP (preparatorio)</strong>
+      <strong style="font-size:1.05rem;">🛡️ OSCP</strong>
       <span style="font-size:0.72rem;font-weight:600;padding:3px 10px;border-radius:999px;background:rgba(149,165,166,0.15);color:#95a5a6;">FUTURO</span>
     </div>
   </div>

@@ -151,7 +151,7 @@ for i in {1..254}; do (ping -c 1 20.20.20.$i | grep "bytes from" &) done
 
 ![HostDiscovery en segmento 20.20.20.0/24](/assets/img/posts/2026-09-29-littlepivoting-pivoting-metasploit/12-hostdiscovery-en-segmento-202020024.png)
 
-De esta manera, descubrimos que existe otro host en el segmento de red, la IP *20.20.20.3*. Para llegar a ella, vamos a necesitar poner en práctica el **pivoting**, que podemos aplicar de forma manual con *chisel* y *socat* o de forma automatizada con **Metasploit**. En este caso, lo haremos de ambas formas: primero con **Metasploit** y después de forma manual con *chisel* y *socat*.
+De esta manera, descubrimos que existe otro host en el segmento de red, la IP *20.20.20.3*. Para llegar a ella, vamos a necesitar poner en práctica el **pivoting**, que podemos aplicar de forma manual con *chisel* y *socat* o de forma automatizada con **Metasploit**. En este caso, lo haremos de forma automatizada con **Metasploit**, en proximos writeups veremos como hacerlo de forma manual con *chisel* y *socat*.
 
 ## Pivoting hacia la subred 20.20.20.0/24 con **Metasploit**
 

@@ -3,13 +3,14 @@ title: "Cocido Andaluz TheHackersLabs"
 date: 2026-10-07 18:36:22 +0200
 categories: [CTF, TheHackersLabs]
 tags: [ejptv2, easy, fileUpload, bruteForce, RCE]
+image:
+  path: /assets/img/posts/2026-10-07-cocido-andaluz/00-cocido_andaluz.png
+  alt: Banner
 ---
 
 - - - -
 
 ## Introducción
-
-![cocido andaluz](/assets/img/posts/2026-10-07-cocido-andaluz/00-cocido_andaluz.png){: width="400"}
 
 En este writeup se documenta la resolución paso a paso de una máquina Windows, abordando distintas técnicas de seguridad ofensiva especialmente relevantes para la preparación de la certificación **eJPTv2**. El proceso incluye el reconocimiento y enumeración de servicios, ataque de credenciales sobre FTP, explotación de vulnerabilidades de subida de archivos para obtener **RCE** mediante una webshell ASP.NET, y diversas técnicas de post-explotación. Finalmente, se aborda la escalada de privilegios en Windows mediante el abuso de **SeImpersonatePrivilege**, completando así la cadena de compromiso del sistema.
 
