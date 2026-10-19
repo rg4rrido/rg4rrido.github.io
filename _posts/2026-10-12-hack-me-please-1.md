@@ -1,6 +1,5 @@
 ---
 tags:
-  - ctf
   - easy
   - eJPTv2
   - SeedDMS

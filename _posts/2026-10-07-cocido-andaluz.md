@@ -2,7 +2,7 @@
 title: "Cocido Andaluz TheHackersLabs"
 date: 2026-10-07 18:36:22 +0200
 categories: [CTF, TheHackersLabs]
-tags: [ejptv2, easy, fileUpload, bruteForce, RCE]
+tags: [eJPTv2, easy, fileUpload, bruteForce, RCE]
 image:
   path: /assets/img/posts/2026-10-07-cocido-andaluz/00-cocido_andaluz.png
   alt: Banner

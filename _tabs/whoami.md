@@ -23,7 +23,7 @@ root@rg4rrido:~$ neofetch
        _nnnn_              rg4rrido@whoami
       dGGGGMMb             ----------------
      @p~qp~~qMb            OS: ASIR (SysAdmin)
-     M|@||@) M|            Role: SysAdmin → Junior Penetration Tester
+     M|@||@) M|            Role: SysAdmin → Penetration Tester
      @,----.JM|            Shell: zsh
     JS^\__/  qKL            Uptime: eJPTv2
    dZP        qKRb          Packages: Metasploit, OWASP, CTFs
