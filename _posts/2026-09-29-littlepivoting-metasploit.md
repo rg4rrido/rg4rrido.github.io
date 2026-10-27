@@ -3,6 +3,9 @@ title: "LittlePivoting Dockerlabs (Resolución con Metasploit)"
 date: 2026-09-29
 categories: [CTF, Dockerlabs]
 tags: [medium, pivoting, metasploit, LFI, eJPTv2, fileUpload]
+image:
+  path: /assets/img/posts/2026-10-27-smashing/dockerlabs.webp
+  alt: Banner
 ---
 
 - - -
